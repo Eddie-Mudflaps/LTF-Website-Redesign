@@ -1,2 +1,2 @@
-# LTF-Website-Redesign
-LTF website overhaul code repository
+# code-dump
+dumping ground for practice shit
